@@ -7,4 +7,5 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 
 ![Facial Keypoints detector](https://github.com/Muhammadjunaidmalik1/Project-Facial-Keypoint-Detection/assets/84126923/40fce907-1270-4ec6-a236-cefac92dc048)
 
-!Computer Vision Nanodegree Certificate](https://github.com/Muhammadjunaidmalik1/Project-Facial-Keypoint-Detection/assets/84126923/c70d6700-5ed8-4076-a715-a60b274eb063)
+
+![Computer Vision Nanodegree Certificate](https://github.com/Muhammadjunaidmalik1/Project-Facial-Keypoint-Detection/assets/84126923/c70d6700-5ed8-4076-a715-a60b274eb063)
